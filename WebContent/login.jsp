@@ -28,7 +28,7 @@
 						<th>プレイヤーID</th>
 						<td><input type="text" name="playerId"/></td>
 						<td><input type="submit" name="submit" value="選手検索"/></td>
-					</tr>    a
+					</tr>
 
 					<%-- 国ID検索欄 --%>
 					<tr>
