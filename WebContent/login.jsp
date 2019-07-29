@@ -1,5 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" %>
-<jsp:useBean id="user_db" scope="session" class="websample12.LoginUserBean" />
 
 <%-- Java入門 ログイン機能 --%>
 <!DOCTYPE html>
